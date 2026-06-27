@@ -10960,40 +10960,5 @@ frontend/dist/
 frontend/build/
 frontend/node_modules/
 frontend/coverage/
-frontend/.eslintcache
-frontend/.stylelintcache
-frontend/.prettiercache
-frontend/vite.config.js.timestamp-*
 
-# Docker
-*.dockerignore
-.docker/
-docker-compose.override.yml
-docker-compose.*.yml
-*.tar
-*.tar.gz
-*.tar.bz2
-*.zip
-
-# Kubernetes
-*.kubeconfig
-*.kubeconfig.*
-*.k8s.yaml
-*.k8s.yml
-*.secret.yaml
-*.secret.yml
-*.secrets.yaml
-*.secrets.yml
-helm/values.*.yaml
-helm/values.*.yml
-*.secret.enc.yaml
-
-# Terraform
-*.tfstate
-*.tfstate.*
-.terraform/
-*.terraform.lock.hcl
-*.tfplan
-*.tfvars
-*.tfvars.json
 
