@@ -11071,46 +11071,5 @@ temp/
 *.cer
 *.p12
 *.pfx
-*.jks
-*.keystore
-*.truststore
-*.id_rsa
-*.id_dsa
-*.id_ecdsa
-*.id_ed25519
-*.ppk
-*.gpg
-*.asc
-*.sig
-*.signature
-*.encrypted
-*.cipher
-*.enc
-*.aes
-*.gpgkey
-*.sshkey
-*.token
-*.apikey
-*.apikey.*
-*.credentials
-*.cert
-*.csr
-*.keypair
-*.privatekey
-*.publickey
 
-# ============================================
-# Backup & Archive Files
-# ============================================
-
-# Archives
-*.zip
-*.rar
-*.7z
-*.tar
-*.gz
-*.bz2
-*.xz
-*.tgz
-*.tbz2
 
