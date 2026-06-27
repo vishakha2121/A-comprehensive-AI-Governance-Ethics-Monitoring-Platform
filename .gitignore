@@ -11463,22 +11463,4 @@ anaconda3/
 .ruff_cache/
 
 # Pre-commit
-.pre-commit-config.yaml
-.pre-commit-hooks/
-.pre-commit/
-
-# Development tools
-.terraform/
-*.tfstate
-*.tfvars
-.terragrunt-cache/
-
-# ============================================
-# END OF .gitignore
-# ==========
-==================================
-
-==================================
-
-==================================
-==================================
+.p
