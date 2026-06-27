@@ -10922,43 +10922,4 @@ pg_ident.conf
 # MongoDB
 *.lock
 *.wt
-*.wt*
-*.bson
-*.ns
-
-# ============================================
-# Project Specific
-# ============================================
-
-# Backend specific
-backend/migrations/versions/
-backend/migrations/alembic.ini
-backend/migrations/README
-backend/migrations/env.py
-backend/migrations/script.py.mako
-backend/__pycache__/
-backend/app/__pycache__/
-backend/app/api/__pycache__/
-backend/app/core/__pycache__/
-backend/app/models/__pycache__/
-backend/app/schemas/__pycache__/
-backend/app/services/__pycache__/
-backend/app/utils/__pycache__/
-backend/app/db/__pycache__/
-backend/tests/__pycache__/
-backend/.pytest_cache/
-backend/.coverage
-backend/htmlcov/
-
-# Frontend specific
-frontend/.cache/
-frontend/.env.local
-frontend/.env.development.local
-frontend/.env.test.local
-frontend/.env.production.local
-frontend/dist/
-frontend/build/
-frontend/node_modules/
-frontend/coverage/
-
 
